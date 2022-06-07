@@ -22,20 +22,20 @@ Config.ServiceLocations = {
 Config.Uniforms = {
 	['male'] = {
 		outfitData = {
-			['t-shirt'] = {item = 15, texture = 0},
-			['torso2']  = {item = 352, texture = 0},
-			['arms']    = {item = 86, texture = 0},
-			['pants']   = {item = 27, texture = 2},
-			['shoes']   = {item = 71, texture = 6},
+			['t-shirt'] = {item = 59, texture = 0},
+			['torso2']  = {item = 345, texture = 0},
+			['arms']    = {item = 2, texture = 0},
+			['pants']   = {item = 139, texture = 4},
+			['shoes']   = {item = 95, texture = 0},
 		}
 	},
 	['female'] = {
-	 	outfitData = {
+		outfitData = {
 			['t-shirt'] = {item = 36, texture = 0},
-			['torso2']  = {item = 262, texture = 18},
-			['arms']    = {item = 105, texture = 0},
-			['pants']   = {item = 106, texture = 4},
-			['shoes']   = {item = 79, texture = 8},
-	 	}
+			['torso2']  = {item = 368, texture = 7},
+			['arms']    = {item = 4, texture = 0},
+			['pants']   = {item = 153, texture = 2},
+			['shoes']   = {item = 113, texture = 0},
+		}
 	},
 }
